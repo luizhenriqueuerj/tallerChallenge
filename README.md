@@ -31,3 +31,8 @@ Validate that the search field is functional and the app responds correctly with
 5. Type "Appium" into the search input field
 6. Validate that at least one search result is displayed
 7. Capture and save a screenshot after performing the search
+
+## Screenshot
+
+![screenshot_a64f1643-2e5c-442c-a9cb-f1d93544033e](https://github.com/user-attachments/assets/cfc24d70-b87a-4b08-a7b6-5cfba21dd09c)
+
