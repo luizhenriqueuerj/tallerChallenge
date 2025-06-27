@@ -1,6 +1,6 @@
 # 📱 Appium Mobile UI Test Report
 
-## ✅ App Name
+## App Name
 **Wikipedia App (org.wikipedia)**  
 Automated UI test executed using Appium on an Android emulator.
 
@@ -22,7 +22,7 @@ Validate that the search field is functional and the app responds correctly with
 
 ---
 
-## 🧪 Summary of Test Steps
+## Summary of Test Steps
 
 1. Launch the Wikipedia app using Appium
 2. Tap the “SKIP” button during onboarding (if present)
@@ -35,4 +35,9 @@ Validate that the search field is functional and the app responds correctly with
 ## Screenshot
 
 ![screenshot_a64f1643-2e5c-442c-a9cb-f1d93544033e](https://github.com/user-attachments/assets/cfc24d70-b87a-4b08-a7b6-5cfba21dd09c)
+
+## Test Result
+
+![image](https://github.com/user-attachments/assets/fcac9b18-79aa-4168-8a87-84dec4c5ac86)
+
 
